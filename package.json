@@ -1,0 +1,17 @@
+{
+  "name": "botzv",
+  "version": "1.0.0",
+  "description": "Zadig&Voltaire messenger bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compute-argmax": "^1.0.0",
+    "jsonfile": "^2.3.1",
+    "keyword-extractor": "0.0.13",
+    "messenger-bot": "^2.3.0"
+  }
+}
